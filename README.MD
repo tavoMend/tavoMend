@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Gustavo Mendoza :
 IT guy who enjoys building, fixing, and breaking things just to understand how they work.<br>
 Into programming, networks, and a bit of DIY along the way.<br>
 Always learning, always improving — one project at a time.
