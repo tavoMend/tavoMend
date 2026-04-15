@@ -1,4 +1,5 @@
-# Gustavo Mendoza :Just an IT guy curious about the things around him. 
+# Gustavo Mendoza :
+Just an IT guy curious about the things around him. 
 Interested in many things and projects. Getting better every day.
 
 ## 🚀 Contributions
