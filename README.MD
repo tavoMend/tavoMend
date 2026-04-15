@@ -1,8 +1,10 @@
-# Gustavo Mendoza :
-IT guy who enjoys building, fixing, and breaking things just to understand how they work.<br>
-Into programming, networks, and a bit of DIY along the way.<br>
-Always learning, always improving — one project at a time.
+# Gustavo Mendoza :Just an IT guy curious about the things around him. 
+Interested in many things and projects. Getting better every day.
 
+## 🚀 Contributions
+- 🔧 Merged Pull Requests in private repositories
+- 🧠 Active in system development & IT solutions
+- 📈 Continuous contributions (public + private)
 ---
 
 ## 🌐 Socials:
