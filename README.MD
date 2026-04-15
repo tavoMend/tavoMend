@@ -54,9 +54,7 @@ Always learning, always improving — one project at a time.
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tavoMend&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com?user=tavoMend&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tavoMend&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=tavoMend&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://streak-stats.demolab.com/?user=tavoMend&theme=midnight-purple&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tavoMend&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
