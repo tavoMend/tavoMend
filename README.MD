@@ -140,8 +140,8 @@ Currently Learning:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Huawei-E60012?style=for-the-badge&logo=huawei&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cisco,huawei" />
+
 <img src="https://img.shields.io/badge/TCP/IP-9333EA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VPN-A855F7?style=for-the-badge&logo=protonvpn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firewall-7E22CE?style=for-the-badge"/>
