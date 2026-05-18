@@ -162,11 +162,19 @@ Currently Learning:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavoMend&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavoMend&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavoMend&layout=compact&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=tavoMend&theme=midnight-purple&hide_border=true"/>
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=tavoMend&theme=midnight-purple&hide_border=true" />
 
 </div>
 
@@ -176,11 +184,10 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=tavoMend&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tavoMend&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
----
 
 # 🐍 Contribution Snake
 
