@@ -136,22 +136,16 @@ Currently Learning:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cisco" height="65"/>
+<img src="https://skillicons.dev/icons?i=cisco" height="50"/>
 
-<img src="https://cdn.simpleicons.org/huawei/E60012" height="65"/>
+<img src="https://cdn.simpleicons.org/huawei/E60012" height="50"/>
 
-<img src="https://cdn.simpleicons.org/ubiquiti/0559C9" height="65"/>
+<img src="https://cdn.simpleicons.org/ubiquiti/0559C9" height="50"/>
 
-<img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="65"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/TCP/IP-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Firewall-7E22CE?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="50"/>
 
 </p>
+
 
 
 ---
