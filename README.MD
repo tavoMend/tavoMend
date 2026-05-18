@@ -1,5 +1,8 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Gustavo%20Mendoza&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20•%20Networking%20•%20IT%20Solutions&descAlignY=60&descSize=18"/> <h1> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=850&lines=Gustavo+Mendoza;Full+Stack+Developer;Networking+%26+Infrastructure;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /> </h1> <p align="center"> <a href="https://www.linkedin.com/in/gustavo-mendoza-b15b1a2ab/"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"/> </a> <a href="mailto:gustavooficial021@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="50"/> </a> </p> <img src="https://user-images.githubusercontent.com/74038190/216656986-9bcfef16-5d60-4c2c-bfb8-2c0f5c59b8d6.gif" width="100%"/> </div> # 👨‍💻 About Me
-yaml
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Gustavo%20Mendoza&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20•%20Networking%20•%20IT%20Solutions&descAlignY=60&descSize=18"/> <h1> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=850&lines=Gustavo+Mendoza;Full+Stack+Developer;Networking+%26+Infrastructure;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /> </h1> <p align="center"> <a href="https://www.linkedin.com/in/gustavo-mendoza-b15b1a2ab/"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"/> </a> <a href="mailto:gustavooficial021@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="50"/> </a> </p> <img src="https://user-images.githubusercontent.com/74038190/216656986-9bcfef16-5d60-4c2c-bfb8-2c0f5c59b8d6.gif" width="100%"/> 
+
+# 👨‍💻 About Me
+
+```yaml
 Name: Gustavo Mendoza
 Role: Full Stack Developer & IT Solutions Engineer
 
@@ -15,7 +18,9 @@ Currently Learning:
   - Cloud Infrastructure
   - DevOps
   - Security Solutions
----
+```
+
+
 # 🚀 Core Strengths
 
 <table align="center">
