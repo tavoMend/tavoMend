@@ -119,9 +119,12 @@ Currently Learning:
 ## 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,mariadb" />
-</p>
 
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+
+<img src="https://cdn.simpleicons.org/mariadb/003545" height="48"/>
+
+</p>
 ---
 
 ## ⚙️ Tools & DevOps
