@@ -1,9 +1,10 @@
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Gustavo%20Mendoza&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20•%20Networking%20•%20IT%20Solutions&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=Gustavo%20Mendoza&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20•%20Networking%20•%20IT%20Solutions&descAlignY=60&descSize=18&width=2000"/>
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=850&lines=Gustavo+Mendoza;Full+Stack+Developer;Networking+%26+Infrastructure;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Gustavo+Mendoza;Full+Stack+Developer;Networking+%26+Infrastructure;Cybersecurity+Enthusiast;Always+Learning+New+Things" />
 </h1>
 
 <p align="center">
@@ -19,6 +20,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/216656986-9bcfef16-5d60-4c2c-bfb8-2c0f5c59b8d6.gif" width="100%"/>
 
 </div>
+
+---
 
 # 👨‍💻 About Me
 
@@ -38,7 +41,7 @@ Currently Learning:
   - Cloud Infrastructure
   - DevOps
   - Security Solutions
-```
+````
 
 ---
 
@@ -119,24 +122,18 @@ Currently Learning:
 ## 🗄️ Databases
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-
 <img src="https://cdn.simpleicons.org/mariadb/003545" height="48"/>
-
 </p>
+
 ---
 
 ## ⚙️ Tools & DevOps
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,nginx" />
-
 <img src="https://cdn.simpleicons.org/apache/D22128" height="48"/>
-
 </p>
-
 
 ---
 
@@ -145,44 +142,19 @@ Currently Learning:
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=cisco" height="50"/>
-
 <img src="https://cdn.simpleicons.org/huawei/E60012" height="50"/>
-
 <img src="https://cdn.simpleicons.org/ubiquiti/0559C9" height="50"/>
-
 <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="50"/>
 
 </p>
 
-
+---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-### 🚀 GitHub Overview
-
-<img src="https://img.shields.io/badge/Repos%20Public-Active-8A2BE2?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Networking-7E22CE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Continuously%20Learning-A855F7?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🧠 Coding Activity
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tavoMend&theme=midnight_purple"/>
-
-</div>
-
----
-
-# 📈 Languages Overview
-
-<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tavoMend&theme=midnight_purple"/>
 
@@ -190,7 +162,7 @@ Currently Learning:
 
 </div>
 
-
+---
 
 # 🔥 GitHub Streak
 
@@ -210,6 +182,7 @@ Currently Learning:
 
 </div>
 
+---
 
 # 🐍 Contribution Snake
 
@@ -258,8 +231,7 @@ Currently Learning:
 
 ### 🚀 Always building. Always learning.
 
-<img src="https://komarev.com/ghpvc/?username=tavoMend&label=Profile%20Views&color=9333ea&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=6,11,20&width=2000"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
+```
