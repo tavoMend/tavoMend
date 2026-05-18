@@ -130,8 +130,13 @@ Currently Learning:
 ## ⚙️ Tools & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,apache,nginx" />
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,nginx" />
+
+<img src="https://cdn.simpleicons.org/apache/D22128" height="48"/>
+
 </p>
+
 
 ---
 
