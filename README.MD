@@ -136,15 +136,23 @@ Currently Learning:
 
 <p align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cisco,huawei" />
+<img src="https://skillicons.dev/icons?i=cisco" height="65"/>
 
-<br><br>
+<img src="https://cdn.simpleicons.org/huawei/E60012" height="65"/>
+
+<img src="https://cdn.simpleicons.org/ubiquiti/0559C9" height="65"/>
+
+<img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="65"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/TCP/IP-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VPN-A855F7?style=for-the-badge&logo=protonvpn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firewall-7E22CE?style=for-the-badge"/>
 
 </p>
+
 
 ---
 
