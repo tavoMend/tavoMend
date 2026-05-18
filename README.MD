@@ -25,6 +25,7 @@
 ```yaml
 Name: Gustavo Mendoza
 Role: Full Stack Developer & IT Solutions Engineer
+
 Focus:
   - Networking
   - Infrastructure
@@ -110,8 +111,7 @@ Currently Learning:
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Livewire-A855F7?style=for-the-badge&logo=livewire&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-9333EA?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=livewire,react" />
 </p>
 
 ---
@@ -119,11 +119,7 @@ Currently Learning:
 ## 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/MariaDB-7E22CE?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,mariadb" />
 </p>
 
 ---
@@ -141,6 +137,8 @@ Currently Learning:
 <p align="center">
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cisco,huawei" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/TCP/IP-9333EA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VPN-A855F7?style=for-the-badge&logo=protonvpn&logoColor=white"/>
