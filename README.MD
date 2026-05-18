@@ -160,11 +160,36 @@ Currently Learning:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavoMend&show_icons=true&theme=midnight-purple&hide_border=true"/>
+### 🚀 GitHub Overview
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavoMend&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img src="https://img.shields.io/badge/Repos%20Public-Active-8A2BE2?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Networking-7E22CE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Continuously%20Learning-A855F7?style=for-the-badge"/>
 
 </div>
+
+---
+
+# 🧠 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tavoMend&theme=midnight_purple"/>
+
+</div>
+
+---
+
+# 📈 Languages Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tavoMend&theme=midnight_purple"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tavoMend&theme=midnight_purple"/>
+
+</div>
+
 
 
 # 🔥 GitHub Streak
