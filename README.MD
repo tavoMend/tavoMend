@@ -25,7 +25,10 @@
 
 </div>
 
-## 👨‍💻 About Me
+<h2 align="center">
+<a id="-about-me"></a>
+👨‍💻&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=260&height=40&lines=About+Me" alt="About Me"/>
+</h2>
 
 ```yaml
 Name: Gustavo Mendoza
@@ -76,7 +79,10 @@ Firewalls<br/>Secure Access<br/>Cybersecurity<br/>IT Solutions
 
 ---
 
-## 📌 Featured Projects
+<h2 align="center">
+<a id="-featured-projects"></a>
+📌&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=430&height=40&lines=Featured+Projects" alt="Featured Projects"/>
+</h2>
 
 <table align="center">
 <tr>
@@ -123,7 +129,10 @@ Sistema de inventario simple construido para aprender y aplicar encriptación de
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">
+<a id="-tech-stack"></a>
+💻&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=280&height=40&lines=Tech+Stack" alt="Tech Stack"/>
+</h2>
 
 **Languages**
 
@@ -163,7 +172,10 @@ Sistema de inventario simple construido para aprender y aplicar encriptación de
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">
+<a id="-github-analytics"></a>
+📊&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=420&height=40&lines=GitHub+Analytics" alt="GitHub Analytics"/>
+</h2>
 
 <div align="center">
 
@@ -179,7 +191,10 @@ Sistema de inventario simple construido para aprender y aplicar encriptación de
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">
+<a id="-contribution-snake"></a>
+🐍&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=460&height=40&lines=Contribution+Snake" alt="Contribution Snake"/>
+</h2>
 
 <div align="center">
 
@@ -189,15 +204,25 @@ Sistema de inventario simple construido para aprender y aplicar encriptación de
 
 ---
 
-## 🎯 Positive Points →
 <h2 align="center">
 <a id="-positive-points"></a>
 🎯&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Positive+Points" alt="Positive Points"/>
 </h2>
 
+<div align="center">
+
+✅ Problem Solver &nbsp;|&nbsp; ✅ Fast Learner &nbsp;|&nbsp; ✅ Team Collaboration &nbsp;|&nbsp; ✅ Infrastructure Knowledge
+<br/>
+✅ Full Stack Development &nbsp;|&nbsp; ✅ Networking & Security &nbsp;|&nbsp; ✅ Automation Mindset &nbsp;|&nbsp; ✅ Continuous Improvement
+
+</div>
+
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">
+<a id="-connect-with-me"></a>
+🌐&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Connect+With+Me" alt="Connect With Me"/>
+</h2>
 
 <div align="center">
 
