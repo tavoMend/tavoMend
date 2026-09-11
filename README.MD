@@ -189,15 +189,11 @@ Sistema de inventario simple construido para aprender y aplicar encriptación de
 
 ---
 
-## 🎯 Positive Points
-
-<div align="center">
-
-✅ Problem Solver &nbsp;|&nbsp; ✅ Fast Learner &nbsp;|&nbsp; ✅ Team Collaboration &nbsp;|&nbsp; ✅ Infrastructure Knowledge
-<br/>
-✅ Full Stack Development &nbsp;|&nbsp; ✅ Networking & Security &nbsp;|&nbsp; ✅ Automation Mindset &nbsp;|&nbsp; ✅ Continuous Improvement
-
-</div>
+## 🎯 Positive Points →
+<h2 align="center">
+<a id="-positive-points"></a>
+🎯&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Positive+Points" alt="Positive Points"/>
+</h2>
 
 ---
 
