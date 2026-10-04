@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Gustavo%20Mendoza&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20•%20Networking%20•%20IT%20Solutions&descAlignY=60&descSize=18"/>
+<img src="assets/header.svg" width="100%" alt="Gustavo Mendoza — retrato ASCII y terminal"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=850&lines=Full+Stack+Developer;Networking+%26+Infrastructure;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=850&lines=%3E+Full+Stack+Developer;%3E+Networking+%26+Infrastructure;%3E+Cybersecurity+Enthusiast;%3E+Always+Learning+New+Things" alt="Typing SVG" />
 
 <p align="center">
-<a href="#-about-me">About</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-tech-stack">Tech Stack</a> •
-<a href="#-github-analytics">Stats</a> •
-<a href="#-connect-with-me">Contact</a>
+<a href="#-about-me"><code>~/about</code></a> &nbsp;
+<a href="#-featured-projects"><code>~/projects</code></a> &nbsp;
+<a href="#-tech-stack"><code>~/stack</code></a> &nbsp;
+<a href="#-github-analytics"><code>~/stats</code></a> &nbsp;
+<a href="#-connect-with-me"><code>~/contact</code></a>
 </p>
 
 <p align="center">
@@ -21,14 +21,14 @@
 </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656986-9bcfef16-5d60-4c2c-bfb8-2c0f5c59b8d6.gif" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 </div>
 
-<h2 align="center">
+<div align="center">
 <a id="-about-me"></a>
-👨‍💻&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=260&height=40&lines=About+Me" alt="About Me"/>
-</h2>
+<img src="assets/sections/about.svg" alt="About Me"/>
+</div>
 
 ```yaml
 Name: Gustavo Mendoza
@@ -53,42 +53,47 @@ Currently Learning:
 <td align="center" width="25%">
 
 ### 💻 Development
+<sub><code>./dev</code></sub><br/>
 Full Stack Apps<br/>APIs & Automation<br/>Mobile Applications<br/>UI/UX Focused
 
 </td>
 <td align="center" width="25%">
 
 ### 🌐 Networking
+<sub><code>./net</code></sub><br/>
 VLANs & Routing<br/>TCP/IP<br/>VPN Solutions<br/>Huawei & Cisco
 
 </td>
 <td align="center" width="25%">
 
 ### ⚙️ Infrastructure
+<sub><code>./infra</code></sub><br/>
 Linux Servers<br/>Apache / Nginx<br/>Virtualization<br/>Databases
 
 </td>
 <td align="center" width="25%">
 
 ### 🛡️ Security
+<sub><code>./sec</code></sub><br/>
 Firewalls<br/>Secure Access<br/>Cybersecurity<br/>IT Solutions
 
 </td>
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-<h2 align="center">
+<div align="center">
 <a id="-featured-projects"></a>
-📌&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=430&height=40&lines=Featured+Projects" alt="Featured Projects"/>
-</h2>
+<img src="assets/sections/projects.svg" alt="Featured Projects"/>
+</div>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
 **[📚 biblioteca-infinita](https://github.com/tavoMend/biblioteca-infinita)**
+<br/><sub><code>~/repos/biblioteca-infinita</code></sub>
 
 Un catálogo de libros que nunca existieron, generado por gramática en el navegador — sin backend, sin IA en producción.
 
@@ -98,6 +103,7 @@ Un catálogo de libros que nunca existieron, generado por gramática en el naveg
 <td width="50%" valign="top">
 
 **[🖥️ InventarioICN](https://github.com/tavoMend/InventarioICN)**
+<br/><sub><code>~/repos/InventarioICN</code></sub>
 
 CRUD de equipos e inmobiliario y gestión de licencias, desarrollado para ICNdigital durante mi práctica profesional.
 
@@ -109,6 +115,7 @@ CRUD de equipos e inmobiliario y gestión de licencias, desarrollado para ICNdig
 <td width="50%" valign="top">
 
 **[🗃️ SistemaIT](https://github.com/tavoMend/SistemaIT)**
+<br/><sub><code>~/repos/SistemaIT</code></sub>
 
 Sistema de control de equipos IT para llevar inventario y seguimiento de activos tecnológicos.
 
@@ -118,6 +125,7 @@ Sistema de control de equipos IT para llevar inventario y seguimiento de activos
 <td width="50%" valign="top">
 
 **[🔐 Horus](https://github.com/tavoMend/Horus)**
+<br/><sub><code>~/repos/Horus</code></sub>
 
 Sistema de inventario simple construido para aprender y aplicar encriptación de bases de datos.
 
@@ -127,41 +135,41 @@ Sistema de inventario simple construido para aprender y aplicar encriptación de
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-<h2 align="center">
+<div align="center">
 <a id="-tech-stack"></a>
-💻&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=280&height=40&lines=Tech+Stack" alt="Tech Stack"/>
-</h2>
+<img src="assets/sections/stack.svg" alt="Tech Stack"/>
+</div>
 
-**Languages**
+<p align="center"><code>├── languages/</code></p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,dart,php,python,js,ts" />
 </p>
 
-**Frontend & Backend**
+<p align="center"><code>├── frontend_backend/</code></p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,laravel,vite,astro" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=livewire" />
 </p>
 
-**Databases**
+<p align="center"><code>├── databases/</code></p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 <img src="https://cdn.simpleicons.org/mariadb/003545" height="48"/>
 </p>
 
-**Tools & DevOps**
+<p align="center"><code>├── tools_devops/</code></p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,nginx" />
 <img src="https://cdn.simpleicons.org/apache/D22128" height="48"/>
 </p>
 
-**Networking & Infrastructure**
+<p align="center"><code>└── networking_infrastructure/</code></p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cisco" height="50"/>
@@ -170,75 +178,67 @@ Sistema de inventario simple construido para aprender y aplicar encriptación de
 <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="50"/>
 </p>
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-<h2 align="center">
+<div align="center">
 <a id="-github-analytics"></a>
-📊&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=420&height=40&lines=GitHub+Analytics" alt="GitHub Analytics"/>
-</h2>
+<img src="assets/sections/stats.svg" alt="GitHub Analytics"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tavoMend&theme=midnight_purple"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tavoMend&theme=midnight_purple"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tavoMend&theme=midnight_purple"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tavoMend&theme=chartreuse_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tavoMend&theme=chartreuse_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tavoMend&theme=chartreuse_dark"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=tavoMend&theme=midnight-purple&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=tavoMend&background=020A09&border=0D4D45&stroke=0D4D45&ring=00E5FF&fire=00FF9C&currStreakNum=B8FCFF&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=00C896&dates=0D4D45" />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-<h2 align="center">
+<div align="center">
 <a id="-contribution-snake"></a>
-🐍&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=460&height=40&lines=Contribution+Snake" alt="Contribution Snake"/>
-</h2>
+<img src="assets/sections/snake.svg" alt="Contribution Snake"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/tavoMend/tavoMend/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/tavoMend/tavoMend/output/github-contribution-grid-snake-ascii.svg"/>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-<h2 align="center">
+<div align="center">
 <a id="-positive-points"></a>
-🎯&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Positive+Points" alt="Positive Points"/>
-</h2>
-
-<div align="center">
-
-✅ Problem Solver &nbsp;|&nbsp; ✅ Fast Learner &nbsp;|&nbsp; ✅ Team Collaboration &nbsp;|&nbsp; ✅ Infrastructure Knowledge
-<br/>
-✅ Full Stack Development &nbsp;|&nbsp; ✅ Networking & Security &nbsp;|&nbsp; ✅ Automation Mindset &nbsp;|&nbsp; ✅ Continuous Improvement
-
+<img src="assets/sections/strengths.svg" alt="Positive Points"/>
 </div>
 
----
+```diff
++ [OK] Problem Solver            + [OK] Full Stack Development
++ [OK] Fast Learner              + [OK] Networking & Security
++ [OK] Team Collaboration        + [OK] Automation Mindset
++ [OK] Infrastructure Knowledge  + [OK] Continuous Improvement
+```
 
-<h2 align="center">
-<a id="-connect-with-me"></a>
-🌐&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&repeat=false&width=400&height=40&lines=Connect+With+Me" alt="Connect With Me"/>
-</h2>
+<img src="assets/divider.svg" width="100%"/>
 
 <div align="center">
+<a id="-connect-with-me"></a>
+<img src="assets/sections/contact.svg" alt="Connect With Me"/>
+
+<br/><br/>
 
 <a href="mailto:gustavooficial021@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-00E5FF?style=for-the-badge&logo=gmail&logoColor=020A09"/>
 </a>
 <a href="https://www.linkedin.com/in/gustavo-mendoza-b15b1a2ab/">
-<img src="https://img.shields.io/badge/LinkedIn-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-00C896?style=for-the-badge&logo=linkedin&logoColor=020A09"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-### 🚀 Always building. Always learning.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=6,11,20&width=2000"/>
+<img src="assets/footer.svg" width="100%" alt="Always building. Always learning."/>
 
 </div>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="22" viewBox="0 0 1000 22">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#0d4d45"/><stop offset=".45" stop-color="#0d4d45"/>
+    <stop offset=".5" stop-color="#b8fcff"/>
+    <stop offset=".55" stop-color="#0d4d45"/><stop offset="1" stop-color="#0d4d45"/>
+    <animate attributeName="x1" values="-1;1" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="0;2" dur="3.5s" repeatCount="indefinite"/>
+  </linearGradient>
+</defs>
+<text x="0" y="15" fill="url(#g)" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="10" textLength="1000" lengthAdjust="spacing">-:=*..#+.-+.+:..==.:.+=.#+.:**+.++=.:.+#:-=:+.+-+#*:.++*:-.+*.+.+:=*+=#-=+=--:#:*#:.+-+=-*=-+..+=:#-:==.*.#++##--*-+=+#=.#.-=**..**-*+*#=-*=*-.=-:+.=.:#-:*:==#=.:==+-</text>
+</svg>
