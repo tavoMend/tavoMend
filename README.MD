@@ -182,9 +182,9 @@ Sistema de inventario simple construido para aprender y aplicar encriptación de
 
 <p align="center">
 <a href="https://github.com/tavoMend/ascii-multimeter">
-<img src="https://raw.githubusercontent.com/tavoMend/ascii-multimeter/main/multimeter.svg" width="380" alt="Multímetro en ASCII girando 360°, marcando 115 V~"/>
+<img src="https://raw.githubusercontent.com/tavoMend/ascii-multimeter/main/multimeter.svg?v=2" width="380" alt="Multímetro en ASCII girando 360°, marcando 115.0 V~"/>
 </a>
-<br/><sub><code>~/repos/ascii-multimeter</code> · 115 V~ · 60 Hz</sub>
+<br/><sub><code>~/repos/ascii-multimeter</code> · 115.0 V~ · 60 Hz</sub>
 </p>
 
 <img src="assets/divider.svg" width="100%"/>
