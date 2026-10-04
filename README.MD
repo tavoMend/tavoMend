@@ -169,13 +169,22 @@ Sistema de inventario simple construido para aprender y aplicar encriptación de
 <img src="https://cdn.simpleicons.org/apache/D22128" height="48"/>
 </p>
 
-<p align="center"><code>└── networking_infrastructure/</code></p>
+<p align="center"><code>├── networking_infrastructure/</code></p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cisco" height="50"/>
 <img src="https://cdn.simpleicons.org/huawei/E60012" height="50"/>
 <img src="https://cdn.simpleicons.org/ubiquiti/0559C9" height="50"/>
 <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="50"/>
+</p>
+
+<p align="center"><code>└── hardware_lab/</code></p>
+
+<p align="center">
+<a href="https://github.com/tavoMend/ascii-multimeter">
+<img src="https://raw.githubusercontent.com/tavoMend/ascii-multimeter/main/multimeter.svg" width="380" alt="Multímetro en ASCII girando 360°, marcando 115 V~"/>
+</a>
+<br/><sub><code>~/repos/ascii-multimeter</code> · 115 V~ · 60 Hz</sub>
 </p>
 
 <img src="assets/divider.svg" width="100%"/>
